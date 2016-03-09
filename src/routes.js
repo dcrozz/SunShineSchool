@@ -8,7 +8,7 @@ import { List } from 'containers/List';
 import { More } from 'containers/More';
 
 export default (
-  <Route path="/" component={App}>
+  <Route path="/" component={More}>
     <Route path="home" component={Home} />
     <Route path="list" component={List} />
       <Route path="more" component={More} />

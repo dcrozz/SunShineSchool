@@ -4,6 +4,9 @@ import DocumentMeta from 'react-document-meta';
 /* components */
 import { MoreHeader } from 'components/MoreHeader';
 import { CallRoll } from 'components/CallRoll';
+
+import ReactPullToRefresh from 'react-pull-to-refresh';
+
 //import { AskLeave } from 'components/AskLeave';
 //import { MiddlePic } from 'components/MiddlePic';
 //import { BusinessActivity } from 'components/BusinessActivity';
@@ -21,18 +24,23 @@ import { CallRoll } from 'components/CallRoll';
 //  },
 //};
 
+
+
+
+
 export class More extends Component {
+
+  handleRefresh(){
+    console.log ("2313213135613651356156146351456");
+  }
   render() {
     return (
       <section>
           <MoreHeader/>
-          <CallRoll/>
+            <CallRoll/>
+
+
       </section>
     );
   }
 }
-/*
-          <AskLeave/>
-          <MiddlePic/>
-          <BusinessActivity/>
-          <HorizontalList/>*/
