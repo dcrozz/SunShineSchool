@@ -2,7 +2,134 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063cef35-9388-41a5-ab2a-b3f41de10dd6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/App/index.js" afterPath="$PROJECT_DIR$/src/containers/App/index.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/BasenameSupport.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/ConfirmingNavigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/GettingStarted.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/Glossary.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/HashHistoryCaveats.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/Location.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/QuerySupport.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/Actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/AsyncUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/DOMStateStorage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/DOMUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/ExecutionEnvironment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createBrowserHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createDOMHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createHashHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createLocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/createMemoryHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/deprecate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/enableBeforeUnload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/enableQueries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/extractPath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/parsePath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/runTransitionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/useBasename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/useBeforeUnload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/lib/useQueries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/Actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/AsyncUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/DOMStateStorage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/DOMUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/ExecutionEnvironment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createBrowserHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createDOMHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createHashHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createLocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/createMemoryHistory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/deprecate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/enableBeforeUnload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/enableQueries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/extractPath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/parsePath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/runTransitionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/useBasename.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/useBeforeUnload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/modules/useQueries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/example/cmp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/lib/is_arguments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/lib/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/deep-equal/test/cmp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/invariant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/loose-envify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/node_modules/js-tokens/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/node_modules/js-tokens/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/node_modules/js-tokens/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/node_modules/js-tokens/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/node_modules/js-tokens/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/node_modules/loose-envify/replace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/invariant/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/qs/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/loose-envify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/node_modules/js-tokens/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/node_modules/js-tokens/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/node_modules/js-tokens/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/node_modules/js-tokens/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/node_modules/js-tokens/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/node_modules/loose-envify/replace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/node_modules/warning/warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/npm-scripts/postinstall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/umd/History.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/redux-simple-router/node_modules/history/umd/History.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/items.js" afterPath="$PROJECT_DIR$/src/actions/items.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CallRoll/index.js" afterPath="$PROJECT_DIR$/src/components/CallRoll/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CallRoll/styles.scss" afterPath="$PROJECT_DIR$/src/components/CallRoll/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/More/index.js" afterPath="$PROJECT_DIR$/src/containers/More/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/items.js" afterPath="$PROJECT_DIR$/src/reducers/items.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
     </list>
     <ignored path="redux-easy-boilerplate.iws" />
@@ -23,38 +150,108 @@
     <favorites_list name="redux-easy-boilerplate" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/CallRoll/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.625">
-              <caret line="178" column="21" selection-start-line="178" selection-start-column="21" selection-end-line="178" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CallRoll/styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.583333">
-              <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.49019608">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/CallRoll/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.51428574">
+                  <caret line="246" column="0" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#Show#0" expanded="false" />
+                    <element signature="n#Activity#0" expanded="false" />
+                    <element signature="n#!!block;n#handleClick#0;n#Article#0" expanded="false" />
+                    <element signature="e#5489#5737#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/routes.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/containers/More/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/containers/App/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="items.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/actions/items.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#1194#1237#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="items.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/reducers/items.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#21#904#0" expanded="false" />
+                    <element signature="e#1130#1256#0" expanded="false" />
+                    <element signature="e#1292#1435#0" expanded="false" />
+                    <element signature="e#1500#1536#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/CallRoll/styles.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.43913537">
+                  <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,13 +259,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/routes.js" />
         <option value="$PROJECT_DIR$/src/containers/App/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/More/index.js" />
         <option value="$PROJECT_DIR$/src/components/TopImage/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/components/MoreHeader/index.js" />
         <option value="$PROJECT_DIR$/src/components/MoreHeader/styles.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/src/containers/More/index.js" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/actions/items.js" />
+        <option value="$PROJECT_DIR$/src/reducers/items.js" />
         <option value="$PROJECT_DIR$/src/components/CallRoll/index.js" />
         <option value="$PROJECT_DIR$/src/components/CallRoll/styles.scss" />
       </list>
@@ -82,10 +283,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1276" />
-    <option name="height" value="777" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -113,7 +313,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate 0226-2156" />
+              <option name="myItemId" value="SunShineSchool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -138,7 +337,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate 0226-2156" />
+              <option name="myItemId" value="SunShineSchool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -152,25 +351,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate 0226-2156" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate 0226-2156" />
+              <option name="myItemId" value="SunShineSchool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -188,7 +369,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="redux-easy-boilerplate 0226-2156" />
+              <option name="myItemId" value="SunShineSchool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,8 +385,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redux-easy-boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SunShineSchool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,7 +414,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.2.0/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/taskbee-react" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -225,9 +425,6 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
@@ -287,17 +484,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1276" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1598746" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11374407" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23023716" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -322,18 +519,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reducers/items.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/isMobileAndTablet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -439,20 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack/dev.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -481,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/configureStore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AddItem/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -510,13 +679,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TopImage/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/List/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -551,27 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/items.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51724136">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Items/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43448275">
@@ -586,38 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/App/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35172415">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Items/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/items.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15384616">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33088234">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43445122">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -626,19 +739,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/More/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5735294">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/MoreHeader/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11432927">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,31 +764,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24264705">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15424974">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329776">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-thunk/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329776">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5272145">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/List/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6150713">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6354379">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/More/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3548386">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Header/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/items.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="e#1194#1237#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/items.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+          <folding>
+            <element signature="e#21#904#0" expanded="false" />
+            <element signature="e#1130#1256#0" expanded="false" />
+            <element signature="e#1292#1435#0" expanded="false" />
+            <element signature="e#1500#1536#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CallRoll/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.583333">
-          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.43913537">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CallRoll/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="178" column="21" selection-start-line="178" selection-start-column="21" selection-end-line="178" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.51428574">
+          <caret line="246" column="0" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+          <folding>
+            <element signature="n#Show#0" expanded="false" />
+            <element signature="n#Activity#0" expanded="false" />
+            <element signature="n#!!block;n#handleClick#0;n#Article#0" expanded="false" />
+            <element signature="e#5489#5737#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
