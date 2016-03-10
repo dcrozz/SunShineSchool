@@ -6,11 +6,11 @@ import { connect } from 'react-redux';
 import ReactPullToRefresh from 'react-pull-to-refresh';
 
 
-const img1 = require('./1.png')
-const img2 = require('./2.png')
-const img3 = require('./3.png')
-const img_ask = require('./ask.png')
-const img_call = require('./call.png')
+const img1 = require('../../resource/1.png')
+const img2 = require('../../resource/2.png')
+const img3 = require('../../resource/3.png')
+const img_ask = require('../../resource/ask.png')
+const img_call = require('../../resource/call.png')
 
 /* component styles */
 import { styles } from './styles.scss';
